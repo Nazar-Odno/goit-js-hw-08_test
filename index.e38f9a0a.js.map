@@ -1,1 +1,0 @@
-{"mappings":"AAAAA,KAAO,cACPC,QAAQC,IADD","sources":["src/index.js"],"sourcesContent":["test = \"hello world\";\nconsole.log(test);"],"names":["test","console","log"],"version":3,"file":"index.e38f9a0a.js.map"}
