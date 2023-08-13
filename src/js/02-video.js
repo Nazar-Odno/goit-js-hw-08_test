@@ -1,4 +1,4 @@
-
+import throttle from 'lodash.throttle';
 
 const iframe = document.querySelector('#vimeo-player');
 
